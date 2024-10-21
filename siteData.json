@@ -114,6 +114,7 @@
       "headings": {
         "ab-3-user-guide": "AB-3 User Guide",
         "quick-start": "Quick start",
+        "quick-start-detailed": "Quick Start (Detailed)",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
@@ -121,6 +122,8 @@
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "adding-or-editing-a-grade-grade": "Adding or editing a grade: grade",
+        "deleting-a-grade-from-a-person-deletegrade": "Deleting a grade from a person: deletegrade",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
