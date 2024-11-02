@@ -71,7 +71,17 @@ public class GradeList {
      */
     public Grade getGrade(String testName) {
         requireNonNull(testName);
-        return this.grades.get(testName);
+
+        String lowerCaseTestName = testName.toLowerCase();
+
+        // Iterate through the keys to find a case-insensitive match
+        for (String key : grades.keySet()) {
+            if (key.toLowerCase().equals(lowerCaseTestName)) {
+                return grades.get(key);
+            }
+        }
+
+        return null;
     }
 
     /**
