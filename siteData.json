@@ -113,6 +113,7 @@
       "title": "User Guide",
       "headings": {
         "tahub-user-guide": "TAHub User Guide",
+        "glossary": "Glossary",
         "quick-start": "Quick start",
         "quick-start-detailed": "Quick Start (Detailed)",
         "features": "Features",
@@ -133,7 +134,11 @@
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command Summary",
+        "person-commands": "Person Commands",
+        "grade-commands": "Grade Commands",
+        "attendance-commands": "Attendance Commands",
+        "general-commands": "General Commands"
       },
       "headingKeywords": {}
     },
