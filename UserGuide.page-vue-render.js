@@ -17,7 +17,7 @@ with(this){return _c('p',[_v("This app is designed for Teaching Assistants (TAs)
 with(this){return _c('h2',{attrs:{"id":"glossary"}},[_v("Glossary"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#glossary","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("CLI")]),_v(": Command Line Interface, where you type commands to interact with the application.")]),_v(" "),_c('li',[_c('strong',[_v("GUI")]),_v(": Graphical User Interface, where you interact with the application through visual elements like buttons and windows.")]),_v(" "),_c('li',[_c('strong',[_v("Index")]),_v(": The position of a person in the currently displayed list. For example, in a list of 5 contacts, the command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 3")]),_v(" would remove the third contact shown in that list.")])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("CLI")]),_v(": Command Line Interface, where you type commands to interact with the application.")]),_v(" "),_c('li',[_c('strong',[_v("GUI")]),_v(": Graphical User Interface, where you interact with the application through visual elements like buttons and windows.")]),_v(" "),_c('li',[_c('strong',[_v("Index")]),_v(": The position of a person in the currently displayed list. For example, in a list of 5 contacts, the command "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 3")]),_v(" would remove the third contact shown in that list. The value provided should be a positive integer smaller than 2147483648.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"quick-start"}},[_v("Quick start"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#quick-start","onclick":"event.stopPropagation()"}})])}
@@ -281,6 +281,6 @@ with(this){return _c('h3',{attrs:{"id":"general-commands"}},[_v("General Command
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("List")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 19:09:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 20:59:23 GMT+8]")])])])}
 }];
   
