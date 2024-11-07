@@ -110,7 +110,6 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
         "tahub-user-guide": "TAHub User Guide",
         "glossary": "Glossary",
@@ -125,8 +124,10 @@
         "deleting-a-person-delete": "Deleting a person : delete",
         "adding-or-editing-a-grade-addgrade": "Adding or editing a grade: addGrade",
         "deleting-a-grade-from-a-person-deletegrade": "Deleting a grade from a person: deleteGrade",
+        "performing-grade-aggregation-operations-agggrade": "Performing grade aggregation operations: aggGrade",
         "marking-attendance-mark": "Marking attendance: mark",
         "unmarking-attendance-unmark": "Unmarking attendance: unmark",
+        "filtering-people-who-were-absent-absentees": "Filtering people who were absent: absentees",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
