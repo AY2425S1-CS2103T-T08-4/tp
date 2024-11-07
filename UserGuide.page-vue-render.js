@@ -41,7 +41,7 @@ with(this){return _c('h3',{attrs:{"id":"viewing-help-help"}},[_v("Viewing help :
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fn7%2F0qj1t2d13dx1rpt4rkxqw6l00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_MgpP52%2FScreenshot%202024-10-25%20at%2011.39.25%E2%80%AFPM.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fn7%2F0qj1t2d13dx1rpt4rkxqw6l00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_MgpP52%2FScreenshot%202024-10-25%20at%2011.39.25%E2%80%AFPM.png","alt":"Screenshot 2024-10-25 at 11.39.25 PM.png"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/helpMessage.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/helpMessage.png","alt":"result for 'help'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-a-person-add"}},[_v("Adding a person: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-person-add","onclick":"event.stopPropagation()"}})])}
@@ -50,7 +50,7 @@ with(this){return _c('h3',{attrs:{"id":"adding-a-person-add"}},[_v("Adding a per
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/NAME p/PHONE_NUMBER e/EMAIL c/COURSE [t/TAG]…​")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/AddPerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/AddPerson.png","alt":"AddPerson"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/addPerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addPerson.png","alt":"result for 'add n/John Doe p/98765432 e/johnd@example.com c/CS2103/T t/owesMoney t/friends'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Newgate Prison p/1234567 t/criminal")])])])}
@@ -62,7 +62,7 @@ with(this){return _c('h3',{attrs:{"id":"listing-all-persons-list"}},[_v("Listing
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/ListPersons.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/ListPersons.png","alt":"ListPersons"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/listPersons.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/listPersons.png","alt":"result for 'list'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"editing-a-person-edit"}},[_v("Editing a person : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#editing-a-person-edit","onclick":"event.stopPropagation()"}})])}
@@ -77,7 +77,7 @@ with(this){return _c('ul',[_c('li',[_v("Edits the person at the specified "),_c(
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit 1 p/91234567 e/johndoe@example.com")]),_v(" Edits the phone number and email address of the 1st person to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("91234567")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("johndoe@example.com")]),_v(" respectively.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("edit 2 n/Betsy Crower t/")]),_v(" Edits the name of the 2nd person to be "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Betsy Crower")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/editPerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/editPerson.png","alt":"editPerson"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/editPerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/editPerson.png","alt":"result for 'find John' followed by 'edit 1 p/91234567 e/johndoe@example.com'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"locating-persons-by-name-find"}},[_v("Locating persons by name: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#locating-persons-by-name-find","onclick":"event.stopPropagation()"}})])}
@@ -104,10 +104,10 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Deletes the person at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")]),_v(".")]),_v(" "),_c('li',[_v("The index refers to the index number shown in the displayed person list.")]),_v(" "),_c('li',[_v("The index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, …​")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 2")]),_v(" deletes the 2nd person in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 1")]),_v(" deletes the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 2")]),_v(" deletes the 2nd person in the address book.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find John")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("delete 1")]),_v(" deletes the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/deletePerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deletePerson.png","alt":"deletePerson"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/deletePerson.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deletePerson.png","alt":"result for 'find John' followed by 'delete 1'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-or-editing-a-grade-addgrade"}},[_v("Adding or editing a grade: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addGrade")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-or-editing-a-grade-addgrade","onclick":"event.stopPropagation()"}})])}
@@ -119,10 +119,10 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Adds or updates a grade for the person at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")]),_v(". The index refers to the index number shown in the displayed person list. The index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, …​")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TEST_NAME")]),_v(" refers to the name of the test (e.g. Midterm Exam).")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("SCORE")]),_v(" refers to the score obtained by the person, which must be between 0 and 100.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("WEIGHTAGE")]),_v(" refers to the weightage of the test in percentage, which must be greater than 0 and less than or equal to 100.")]),_v(" "),_c('li',[_v("If a grade with the same "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TEST_NAME")]),_v(" exists, it will be updated with the new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("SCORE")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("WEIGHTAGE")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addGrade 2 n/Midterm s/85 w/20")]),_v(" Adds or updates a grade for the 2nd person in the list with a score of 85% for a test named \"Midterm\" with a 20% weightage.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("grade 1 n/FinalExam s/92 w/30")]),_v(" Adds or updates a grade for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command with a score of 92% for \"FinalExam\" and 30% weightage.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addGrade 2 n/Midterm s/85 w/30")]),_v(" Adds or updates a grade for the 2nd person in the list with a score of 85% for a test named \"Midterm\" with a 30% weightage.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("grade 1 n/FinalExam s/92 w/30")]),_v(" Adds or updates a grade for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command with a score of 92% for \"FinalExam\" and 30% weightage.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/addGrade.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addGrade.png","alt":"addGrade"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/addGrade.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addGrade.png","alt":"result for 'find John' followed by 'addGrade 1 n/Midterm s/85 w/30'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"deleting-a-grade-from-a-person-deletegrade"}},[_v("Deleting a grade from a person: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deleteGrade")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#deleting-a-grade-from-a-person-deletegrade","onclick":"event.stopPropagation()"}})])}
@@ -137,7 +137,7 @@ with(this){return _c('ul',[_c('li',[_v("Deletes the grade for the specified "),_
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deleteGrade 2 n/Midterm")]),_v(" Deletes the grade for the \"Midterm\" test for the 2nd person in the list.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("deleteGrade 1 n/FinalExam")]),_v(" Deletes the \"FinalExam\" grade for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/deleteGrade.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deleteGrade.png","alt":"deleteGrade"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/deleteGrade.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/deleteGrade.png","alt":"result for 'find John' followed by 'deleteGrade 1 n/Midterm'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"marking-attendance-mark"}},[_v("Marking attendance: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#marking-attendance-mark","onclick":"event.stopPropagation()"}})])}
@@ -149,10 +149,10 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Adds or updates attendance for the person at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")]),_v(". The index refers to the index number shown in the displayed person list. The index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, …​")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DATE_TIME")]),_v(" refers to the date and time of attendance that you want to add or edit. It must be written in the format "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("dd/MM/yyyy HH:mm")]),_v(".")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ATTENDANCE")]),_v(" refers to the attendance status, which must be either "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Attended")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Absent")]),_v(". They are case-sensitive.")]),_v(" "),_c('li',[_v("If the attendance record for "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DATE_TIME")]),_v(" already exists, it will be updated with the new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ATTENDANCE")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark 2 d/31/01/2024 10:00 m/Attended")]),_v(" Sets the attendance to 'Attended' on the 10 AM of January 31st, 2024 for the 2nd person in the list.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark 1 d/31/01/2024 10:00 m/Absent")]),_v(" Sets the attendance to 'Absent' on the 10 AM of January 31st, 2024 for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark 2 d/31/01/2024 10:00 m/Attended")]),_v(" Sets the attendance to 'Attended' on the 10 AM of January 31st, 2024 for the 2nd person in the list.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find John")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark 1 d/31/01/2024 12:00 m/Absent")]),_v(" Sets the attendance to 'Absent' on the 12 PM of January 31st, 2024 for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/markAttendance.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/markAttendance.png","alt":"markAttendance"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/markAttendance.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/markAttendance.png","alt":"result for 'find John' followed by 'mark 1 d/31/01/2024 12:00 m/Absent'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"unmarking-attendance-unmark"}},[_v("Unmarking attendance: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#unmarking-attendance-unmark","onclick":"event.stopPropagation()"}})])}
@@ -164,10 +164,10 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Deletes attendance for the person at the specified "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("INDEX")]),_v(". The index refers to the index number shown in the displayed person list. The index "),_c('strong',[_v("must be a positive integer")]),_v(" 1, 2, 3, …​")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("DATE_TIME")]),_v(" refers to the date and time of attendance that you want to delete. It must be written in the format "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("dd/MM/yyyy HH:mm")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark 2 d/31/01/2024 10:00")]),_v(" Deletes the attendance on the 10 AM of January 31st, 2024 for the 2nd person in the list.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find Betsy")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark 1 d/31/01/2024 10:00")]),_v(" deletes the attendance on the 10 AM of January 31st, 2024 for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark 2 d/31/01/2024 10:00")]),_v(" Deletes the attendance on the 10 AM of January 31st, 2024 for the 2nd person in the list.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find John")]),_v(" followed by "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark 1 d/31/01/2024 12:00")]),_v(" deletes the attendance on the 12 PM of January 31st, 2024 for the 1st person in the results of the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find")]),_v(" command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/unmarkAttendance.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/unmarkAttendance.png","alt":"unmarkAttendance"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/unmarkAttendance.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/unmarkAttendance.png","alt":"result for 'find John' followed by 'unmark 1 d/31/01/2024 12:00'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"clearing-all-entries-clear"}},[_v("Clearing all entries : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#clearing-all-entries-clear","onclick":"event.stopPropagation()"}})])}
@@ -176,7 +176,7 @@ with(this){return _c('h3',{attrs:{"id":"clearing-all-entries-clear"}},[_v("Clear
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/clearMessage.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/clearMessage.png","alt":"clearMessage"}})])])}
+with(this){return _c('p',[_v("Expected output:\n"),_c('a',{attrs:{"href":"/tp/images/clearMessage.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/clearMessage.png","alt":"result for 'clear'"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"exiting-the-program-exit"}},[_v("Exiting the program : "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exiting-the-program-exit","onclick":"event.stopPropagation()"}})])}
@@ -242,6 +242,6 @@ with(this){return _c('h3',{attrs:{"id":"general-commands"}},[_v("General Command
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('strong',[_v("List")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("list")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Help")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('strong',[_v("Exit")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 8:59:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 9:02:26 GMT+8]")])])])}
 }];
   
