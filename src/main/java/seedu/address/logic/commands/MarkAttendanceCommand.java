@@ -28,7 +28,7 @@ public class MarkAttendanceCommand extends Command {
             + ": Mark the attendance of the person identified by the index number used in "
             + "the displayed person list and a datetime.\n"
             + "Parameters: INDEX (must be a positive integer) "
-            + PREFIX_DATE + "DATE_TIME "
+            + PREFIX_DATE + "DATETIME "
             + PREFIX_ATTENDANCE + "ATTENDANCE \n"
             + "Examples: \n"
             + COMMAND_WORD + " 1 " + PREFIX_DATE + "31/01/2024 12:00 " + PREFIX_ATTENDANCE + "Attended \n"
